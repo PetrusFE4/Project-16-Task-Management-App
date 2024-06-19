@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6655fd82a6f01653c0cd7fe2"
+  },
+  "title": "Nama Tugas",
+  "description": "Deskripsi Tugas",
+  "status": "todo",
+  "dueDate": {
+    "$date": "2024-06-30T00:00:00.000Z"
+  },
+  "priority": "medium",
+  "assignedTo": {
+    "$oid": "6655ec95e6039db04bdb9d79"
+  },
+  "project": {
+    "$oid": "6655fc8da6f01653c0cd7fe0"
+  },
+  "createdAt": {
+    "$date": "2024-05-28T15:51:30.605Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T15:51:30.606Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6655fc8da6f01653c0cd7fe0"
+  },
+  "title": "Nama Proyek",
+  "description": "Deskripsi Proyek",
+  "status": "ongoing",
+  "members": [
+    {
+      "$oid": "6655ec95e6039db04bdb9d79"
+    }
+  ],
+  "tasks": [
+    {
+      "$oid": "6655fd82a6f01653c0cd7fe2"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-05-28T15:47:25.733Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T15:47:25.735Z"
+  },
+  "__v": 0
+}]
